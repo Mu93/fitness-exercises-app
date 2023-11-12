@@ -7,8 +7,8 @@ With the functionality to choose exercise categories and specific muscle groups,
 - Fetching data from unlimited sources using RapidAPI
 - Pagination
 
-![Image]()
-![Image]()
-![Image]()
-![Image]()
-![Image]()
+![Image](https://github.com/Mu93/fitness-exercises-app/blob/main/screenshot/01.jpg)
+![Image](https://github.com/Mu93/fitness-exercises-app/blob/main/screenshot/02.jpg)
+![Image](https://github.com/Mu93/fitness-exercises-app/blob/main/screenshot/03.jpg)
+![Image](https://github.com/Mu93/fitness-exercises-app/blob/main/screenshot/04.jpg)
+![Image](https://github.com/Mu93/fitness-exercises-app/blob/main/screenshot/05.jpg)
